@@ -1,6 +1,4 @@
 # Assessment
-# MERN Stack Project
-
 This guide explains how to set up and run a MERN (MongoDB, Express, React, Node.js) stack project locally. The project structure consists of two main folders:
 
 - `backend`: Contains the server-side code (Node.js, Express, MongoDB).
