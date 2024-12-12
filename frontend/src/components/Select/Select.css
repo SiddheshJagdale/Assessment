@@ -1,0 +1,11 @@
+.select{
+    position: absolute;
+    top:4rem ;
+    right: 30rem;
+
+}
+
+.select select{
+    padding: 8px 10px ;
+    border-radius: 10px;
+}
